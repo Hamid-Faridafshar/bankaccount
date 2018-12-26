@@ -1,0 +1,11 @@
+/home/hmd/firstdot/bin/Debug/netcoreapp2.2/firstdot.deps.json
+/home/hmd/firstdot/bin/Debug/netcoreapp2.2/firstdot.runtimeconfig.json
+/home/hmd/firstdot/bin/Debug/netcoreapp2.2/firstdot.runtimeconfig.dev.json
+/home/hmd/firstdot/bin/Debug/netcoreapp2.2/firstdot.dll
+/home/hmd/firstdot/bin/Debug/netcoreapp2.2/firstdot.pdb
+/home/hmd/firstdot/obj/Debug/netcoreapp2.2/firstdot.csprojAssemblyReference.cache
+/home/hmd/firstdot/obj/Debug/netcoreapp2.2/firstdot.csproj.CoreCompileInputs.cache
+/home/hmd/firstdot/obj/Debug/netcoreapp2.2/firstdot.AssemblyInfoInputs.cache
+/home/hmd/firstdot/obj/Debug/netcoreapp2.2/firstdot.AssemblyInfo.cs
+/home/hmd/firstdot/obj/Debug/netcoreapp2.2/firstdot.dll
+/home/hmd/firstdot/obj/Debug/netcoreapp2.2/firstdot.pdb
